@@ -10,5 +10,5 @@
 
 <img src="http://gvn.github.io/hodl-btc/qr.png" width="200" />
 
-[1BBhv5wjiWdqoYTtNmtgBP974dsPEsTn1q](bitcoin:1BBhv5wjiWdqoYTtNmtgBP974dsPEsTn1q)
+**1BBhv5wjiWdqoYTtNmtgBP974dsPEsTn1q**
 
